@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\IXD\proiect_numar\proiect_numar\bin\Debug\proiect_numar.exe.config
+C:\Users\user\Desktop\IXD\proiect_numar\proiect_numar\bin\Debug\proiect_numar.exe
+C:\Users\user\Desktop\IXD\proiect_numar\proiect_numar\bin\Debug\proiect_numar.pdb
+C:\Users\user\Desktop\IXD\proiect_numar\proiect_numar\obj\Debug\proiect_numar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IXD\proiect_numar\proiect_numar\obj\Debug\proiect_numar.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\IXD\proiect_numar\proiect_numar\obj\Debug\proiect_numar.Properties.Resources.resources
+C:\Users\user\Desktop\IXD\proiect_numar\proiect_numar\obj\Debug\proiect_numar.csproj.GenerateResource.cache
+C:\Users\user\Desktop\IXD\proiect_numar\proiect_numar\obj\Debug\proiect_numar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IXD\proiect_numar\proiect_numar\obj\Debug\proiect_numar.exe
+C:\Users\user\Desktop\IXD\proiect_numar\proiect_numar\obj\Debug\proiect_numar.pdb
+C:\Users\user\Desktop\IXD\proiect_numar\proiect_numar\obj\Debug\proiect_numar.Form1.resources
+C:\Users\user\Desktop\IXD 2\proiect_numar\proiect_numar\bin\Debug\proiect_numar.exe.config
+C:\Users\user\Desktop\IXD 2\proiect_numar\proiect_numar\bin\Debug\proiect_numar.exe
+C:\Users\user\Desktop\IXD 2\proiect_numar\proiect_numar\bin\Debug\proiect_numar.pdb
+C:\Users\user\Desktop\IXD 2\proiect_numar\proiect_numar\obj\Debug\proiect_numar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IXD 2\proiect_numar\proiect_numar\obj\Debug\proiect_numar.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\IXD 2\proiect_numar\proiect_numar\obj\Debug\proiect_numar.Form1.resources
+C:\Users\user\Desktop\IXD 2\proiect_numar\proiect_numar\obj\Debug\proiect_numar.Properties.Resources.resources
+C:\Users\user\Desktop\IXD 2\proiect_numar\proiect_numar\obj\Debug\proiect_numar.csproj.GenerateResource.cache
+C:\Users\user\Desktop\IXD 2\proiect_numar\proiect_numar\obj\Debug\proiect_numar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IXD 2\proiect_numar\proiect_numar\obj\Debug\proiect_numar.exe
+C:\Users\user\Desktop\IXD 2\proiect_numar\proiect_numar\obj\Debug\proiect_numar.pdb
