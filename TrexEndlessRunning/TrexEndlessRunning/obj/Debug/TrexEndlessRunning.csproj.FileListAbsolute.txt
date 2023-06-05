@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\IXD\TrexEndlessRunning\TrexEndlessRunning\bin\Debug\TrexEndlessRunning.exe.config
+C:\Users\user\Desktop\IXD\TrexEndlessRunning\TrexEndlessRunning\bin\Debug\TrexEndlessRunning.exe
+C:\Users\user\Desktop\IXD\TrexEndlessRunning\TrexEndlessRunning\bin\Debug\TrexEndlessRunning.pdb
+C:\Users\user\Desktop\IXD\TrexEndlessRunning\TrexEndlessRunning\obj\Debug\TrexEndlessRunning.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IXD\TrexEndlessRunning\TrexEndlessRunning\obj\Debug\TrexEndlessRunning.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\IXD\TrexEndlessRunning\TrexEndlessRunning\obj\Debug\TrexEndlessRunning.Form1.resources
+C:\Users\user\Desktop\IXD\TrexEndlessRunning\TrexEndlessRunning\obj\Debug\TrexEndlessRunning.Properties.Resources.resources
+C:\Users\user\Desktop\IXD\TrexEndlessRunning\TrexEndlessRunning\obj\Debug\TrexEndlessRunning.csproj.GenerateResource.cache
+C:\Users\user\Desktop\IXD\TrexEndlessRunning\TrexEndlessRunning\obj\Debug\TrexEndlessRunning.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IXD\TrexEndlessRunning\TrexEndlessRunning\obj\Debug\TrexEndlessRunning.exe
+C:\Users\user\Desktop\IXD\TrexEndlessRunning\TrexEndlessRunning\obj\Debug\TrexEndlessRunning.pdb
