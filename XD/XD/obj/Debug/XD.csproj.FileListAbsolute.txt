@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\XD\XD\XD\bin\Debug\XD.exe.config
+C:\Users\user\Desktop\XD\XD\XD\bin\Debug\XD.exe
+C:\Users\user\Desktop\XD\XD\XD\bin\Debug\XD.pdb
+C:\Users\user\Desktop\XD\XD\XD\obj\Debug\XD.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\XD\XD\XD\obj\Debug\XD.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\XD\XD\XD\obj\Debug\XD.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\XD\XD\XD\obj\Debug\XD.exe
+C:\Users\user\Desktop\XD\XD\XD\obj\Debug\XD.pdb
